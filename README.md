@@ -41,3 +41,5 @@ The supplied UI is a local prototype and stores the demo account name in browser
 ## Supabase
 
 The SQL schema is included for the database layer. Add your Supabase credentials to `js/config.js` only when you are ready to connect the app to Supabase. Never put a Supabase service-role/secret key in browser JavaScript.
+
+website http://localhost:3000.url
